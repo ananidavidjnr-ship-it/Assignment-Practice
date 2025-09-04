@@ -1,8 +1,27 @@
 ---
-title: "Dvaid"
+title: "David junior Anani"
 format: html
 editor: visual
+Author: David Junior 
+Date:   5/5/25
+toc: 
 ---
+
+## 
+
+#\*PRESENTATIONS ON MY ASSIGNMENT This file consist of the presentations of my assignments
+
+```{r}
+#| echo: true
+names<-c("Kofi","Antoa","Kodzo")
+ages<-c(3,4,5)
+gender<-c("F","M","F")
+myd<-data.frame(names,ages,gender)
+f<-ages+3
+f
+```
+
+Therefore the output of f is `r f` comment
 
 ## Quarto
 
