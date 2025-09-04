@@ -1,0 +1,21 @@
+---
+title: "Junior"
+output: pdf_document
+---
+
+#*PRESENTATIONS ON MY ASSIGNMENT*
+
+This file consist of the presentations of my assignments
+
+```{r}
+#| echo: true
+names<-c("Kofi","Antoa","Kodzo")
+ages<-c(3,4,5)
+gender<-c("F","M","F")
+myd<-data.frame(names,ages,gender)
+f<-ages+3
+f
+```
+
+Therefore the output of f is `r f`
+comment
